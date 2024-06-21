@@ -1,0 +1,10 @@
+We used "appWrite" for backend. "appWrite" is complete backend as a service. its open source service. similer like firebase.
+We are using "appWrite" cloud. 
+
+The use TinyMCE for API 
+HTML react parser from npm for properly passing the value
+
+React Hook Form  for handling forms. its easy to handle and reduce error
+
+Enniorment variabless to check how to store secrate.
+
